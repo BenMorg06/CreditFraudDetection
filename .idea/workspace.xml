@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42b8c059-194d-443f-ad12-bc836c5fa70e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dashboard.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CreditFraudDetection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CreditFraudDetection.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1757676944423</updated>
       <workItem from="1757676945444" duration="1258000" />
-      <workItem from="1757678212189" duration="403000" />
+      <workItem from="1757678212189" duration="1488000" />
+      <workItem from="1757681399591" duration="306000" />
     </task>
     <servers />
   </component>
